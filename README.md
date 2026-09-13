@@ -69,26 +69,12 @@ Your site will be live at:
 
 ---
 
-## Alternative: Deploy with `gh-pages` Branch
-
-If you prefer deploying via the `gh-pages` branch directly from your terminal:
-
-```bash
-npm run deploy
-```
-
-This runs `npm run build` and automatically pushes the compiled `dist/` directory to the `gh-pages` branch.
-
----
-
 ## Available Scripts
 
 - `npm run dev`: Starts the Vite development server on port 3000.
 - `npm run build`: Compiles TypeScript and builds production-ready static assets into `dist/`.
 - `npm run preview`: Previews the built production app locally.
 - `npm run lint`: Runs TypeScript compiler check (`tsc --noEmit`).
-- `npm run predeploy`: Prepares the build before deploying to GitHub Pages.
-- `npm run deploy`: Publishes the `dist` directory to the `gh-pages` branch.
 
 ---
 
