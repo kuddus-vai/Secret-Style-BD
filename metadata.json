@@ -1,0 +1,6 @@
+{
+  "name": "Secret Style BD",
+  "description": "Secret Style BD - Original export PJ sleep shirts, 100% cotton summer lounge shorts, cute printed pajama pants, and comfort panties in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

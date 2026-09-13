@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', 'Hind Siliguri', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+}
+
+.font-serif-display {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+.font-bangla {
+  font-family: 'Hind Siliguri', 'Plus Jakarta Sans', sans-serif;
+}
